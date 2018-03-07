@@ -1,6 +1,4 @@
 # hello-world
-test repository
-
 This is an addition to this file.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
